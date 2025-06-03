@@ -1,4 +1,4 @@
-###<h1 align="left">Olá👋</h1>
+<h1 align="left">Olá👋</h1>
 
 ###
 
@@ -10,7 +10,7 @@ Tenho me dedicado ao estudo de desenvolvimento web, aprimorando conhecimentos em
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Estudando</h2>
 
 ###
 
@@ -21,6 +21,9 @@ Tenho me dedicado ao estudo de desenvolvimento web, aprimorando conhecimentos em
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+
 </div>
 
 ###
