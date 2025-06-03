@@ -10,7 +10,7 @@ Tenho me dedicado ao estudo de desenvolvimento web, aprimorando conhecimentos em
 
 ###
 
-<h2 align="left">Estudando</h2>
+<h2 align="left">Tecnologias Utilizadas</h2>
 
 ###
 
@@ -27,3 +27,9 @@ Tenho me dedicado ao estudo de desenvolvimento web, aprimorando conhecimentos em
 </div>
 
 ###
+
+<p align="left"> Contato👥
+Email: bbiavil72@gmail.com
+LinkedIn: https://www.linkedin.com/in/bia-vilela-/ </p>
+
+
