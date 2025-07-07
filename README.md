@@ -13,16 +13,8 @@ Tenho me dedicado ao estudo de desenvolvimento web, aprimorando conhecimentos em
 <h2 align="left">Tecnologias Utilizadas</h2>
 
 ###
+<p align="left"> JavaScript, HTML,CSS,Node.JS, Next.JS.</p>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="6" alt="javascript logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="6" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="6" alt="css3 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="6" alt="nodejs logo"  />
-  <img width="5" />
 
 </div>
 
