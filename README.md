@@ -13,7 +13,7 @@ Tenho me dedicado ao estudo de desenvolvimento web, aprimorando conhecimentos em
 <h2 align="left">Tecnologias Utilizadas</h2>
 
 ###
-<p align="left"> JavaScript, HTML,CSS,Node.JS, Next.JS.</p>
+<p align="left"> JavaScript, HTML,CSS,Node.JS.</p>
 
 
 </div>
